@@ -1,0 +1,50 @@
+{
+  "data": {
+    "siteId": "ef935db0-c5f8-4c22-8e22-b27d11d476b9",
+    "name": "A & M Smith Recycling Services Ltd",
+    "phone": "+44 1779 430035",
+    "address": "Upperton Industrial Estate, Peterhead AB42 3GL",
+    "headline": "Peterhead's 5-Star Dog Groomers — Keeping Tails Wagging at A & M Smith Recycling Services Ltd",
+    "aboutText": "At A & M Smith Recycling Services Ltd, we're proud to offer professional dog grooming right here in Peterhead, serving dogs and their owners across Aberdeenshire with care and expertise. Based at Upperton Industrial Estate, our team combines a genuine love of dogs with the skills to keep every coat healthy, clean, and looking its best — whatever the breed. With a perfect 5-star rating from our customers, you can book with confidence knowing your four-legged family member is in safe, experienced hands.",
+    "services": [
+      {
+        "name": "Full Groom & Wash",
+        "blurb": "A thorough bath, blow-dry, brush-out, and tidy-up to leave your dog fresh, clean, and comfortable from nose to tail."
+      },
+      {
+        "name": "Breed-Specific Styling",
+        "blurb": "Expert scissor and clipper work tailored to your dog's breed standard or your preferred style, so they always look their absolute best."
+      },
+      {
+        "name": "Nail Trimming & Ear Cleaning",
+        "blurb": "Essential maintenance to keep your dog healthy and comfortable, carried out gently and carefully by our experienced groomers."
+      },
+      {
+        "name": "Puppy Introduction Grooms",
+        "blurb": "A calm, positive first grooming experience designed to help young pups in Peterhead grow up relaxed and confident in the salon."
+      }
+    ],
+    "rating": 5,
+    "reviewCount": 7,
+    "contactEmail": null
+  },
+  "paletteId": "charcoal-orange",
+  "templateId": "classic",
+  "images": {
+    "hero": "./images/hero.png",
+    "service1": "./images/service1.png",
+    "service2": "./images/service2.png",
+    "service3": "./images/service3.png",
+    "service4": "./images/service4.png",
+    "reviewer1": "./images/reviewer1.png",
+    "reviewer2": "./images/reviewer2.png",
+    "reviewer3": "./images/reviewer3.png",
+    "reviewer4": "./images/reviewer4.png",
+    "reviewer5": "./images/reviewer5.png"
+  },
+  "appsScriptUrl": null,
+  "siteType": "demo",
+  "backendEnabled": false,
+  "supabaseUrl": null,
+  "supabaseAnonKey": null
+}
